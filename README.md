@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=⚡%20ENTER%20THE%20CODE%20REALM%20⚡&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,50:6A11CB,100:00C6FF&height=230&section=header&text=✨%20WELCOME%20TO%20MY%20DEV%20SPACE%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -8,87 +8,87 @@
 
 <div align="center">
 
-# 🧠 Shivam | Developer ⚡
+# 🚀 Shivam | Developer ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&color=00C6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;MERN+Stack+Explorer;JavaScript+Engineer;Building+Real+World+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=6A11CB&center=true&vCenter=true&width=650&lines=Frontend+Developer;MERN+Stack+Journey;JavaScript+Engineer;Building+Modern+Web+Apps"/>
 
 </div>
 
 ---
 
-## 🧬 Developer Essence
+## 🧠 About Me
 
-✨ Passion for Clean Code  
-⚡ Love High Performance UI  
-🧠 Problem Solving Mindset  
-🚀 Future Full Stack Engineer  
+✨ Passionate About Modern Web  
+⚡ Love UI + Performance  
+🧠 Problem Solver  
+🚀 Future Full Stack Developer  
 
 ---
 
-## 🌌 Digital Presence
+## 🌐 Connect
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 
 </p>
 
 ---
 
-## ⚙️ Tech Power
+## 🧬 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,linux,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,vscode&perline=6"/>
 
 </p>
 
 ---
 
-## 📊 Dev Intelligence Stats
+## 📊 GitHub Intelligence
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&layout=compact&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 Achievement Matrix
+## 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Energy Field
+## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?theme=tokyo-night&bg_color=00000000"/>
-
----
-
-## 🐍 Code Evolution Snake
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?theme=tokyo-night"/>
 
 ---
 
-## 🔮 Dev Philosophy
+## 🐍 Contribution Snake
 
-> ⚡ “Build Clean. Build Fast. Build Future.”
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+---
+
+## ✨ Dev Quote
+
+> 💎 "Design Clean. Code Smart. Build Premium."
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:6A11CB,100:1A2980&height=130&section=footer"/>
 
 </div>
