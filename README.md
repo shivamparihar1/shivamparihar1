@@ -47,7 +47,7 @@
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamparihar1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165"/>
+  <img src="https://ghchart.rshah.org/539bf5/shivamparihar1" />
 </p>
 
 ---
