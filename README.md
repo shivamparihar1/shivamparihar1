@@ -36,10 +36,18 @@
 
 ---
 
+## 📌 Featured Projects
+
+- 🔹 [Backend Practice Repo](https://github.com/shivamparihar1/Backend-Dev)  
+- 🔹 [Full Stack Project](https://github.com/shivamparihar1/YOUR_PROJECT_NAME)  
+- 🔹 [DSA in Java](https://github.com/shivamparihar1/YOUR_DSA_REPO)
+  
+---
+
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamparihar1&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamparihar1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 </p>
 
 ---
@@ -64,4 +72,12 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamparihar1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shivamparihar?theme=dark&font=Baloo&ext=contest" />
 </p>
