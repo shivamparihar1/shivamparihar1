@@ -1,53 +1,68 @@
 <h1 align="center">Hi 👋, I'm Shivam Parihar</h1>
-<h3 align="center">Aspiring Full Stack Developer 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on Node.js & Express projects
-- 🌱 Learning Data Structures & Algorithms
-- 💻 Interested in Backend & Microservices
-- ⚡ Fun fact: I love solving logical problems
+- 💻 Currently building Backend & Microservices projects  
+- 🌱 Learning Advanced Data Structures & System Design  
+- 🔥 Practicing daily to improve problem solving skills  
+- 🎯 Goal: Become a Strong Full Stack Developer  
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+</a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-grey?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,git,github,aws" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamparihar1&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamparihar1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamparihar1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shivamparihar1&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shivamparihar1&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 Developer Philosophy
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shivamparihar1&theme=radical)
+<p align="center">
+  <i>"Consistency builds mastery. Small improvements every day lead to big success."</i>
+</p>
 
 ---
 
-## ✍️ Random Dev Quote
+## 📈 Contribution Graph
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamparihar1&theme=tokyo-night&hide_border=true" />
+</p>
