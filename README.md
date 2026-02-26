@@ -31,16 +31,15 @@
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,git,github,aws,dsa with java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,react,git,github,aws,java" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamparihar1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamparihar1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamparihar1&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
 </p>
 
 ---
