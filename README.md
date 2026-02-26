@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Parihar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=ff7b00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00ff88&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 - 🔹 [Backend Practice Repo](https://github.com/shivamparihar1/Backend-Dev)  
 - 🔹 [Full Stack Project](https://github.com/shivamparihar1/YOUR_PROJECT_NAME)  
-- 🔹 [DSA in Java](https://github.com/shivamparihar1/YOUR_DSA_REPO)
+- 🔹 [DSA in Java](https://github.com/shivamparihar1/https://leetcode.com/u/shivamparihar/)
   
 ---
 
