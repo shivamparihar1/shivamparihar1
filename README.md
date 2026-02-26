@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Parihar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00ff88&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=a855f7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Enthusiast;Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamparihar1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamparihar1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
